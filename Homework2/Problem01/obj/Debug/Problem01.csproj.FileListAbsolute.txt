@@ -1,0 +1,9 @@
+D:\GitHub\CS263_Homeworks\Homework2\Problem01\bin\Debug\Problem01 - 猜數字.exe.config
+D:\GitHub\CS263_Homeworks\Homework2\Problem01\bin\Debug\Problem01 - 猜數字.exe
+D:\GitHub\CS263_Homeworks\Homework2\Problem01\bin\Debug\Problem01 - 猜數字.pdb
+D:\GitHub\CS263_Homeworks\Homework2\Problem01\obj\Debug\Problem01.csprojResolveAssemblyReference.cache
+D:\GitHub\CS263_Homeworks\Homework2\Problem01\obj\Debug\Problem01.Form1.resources
+D:\GitHub\CS263_Homeworks\Homework2\Problem01\obj\Debug\Problem01.Properties.Resources.resources
+D:\GitHub\CS263_Homeworks\Homework2\Problem01\obj\Debug\Problem01.csproj.GenerateResource.Cache
+D:\GitHub\CS263_Homeworks\Homework2\Problem01\obj\Debug\Problem01 - 猜數字.exe
+D:\GitHub\CS263_Homeworks\Homework2\Problem01\obj\Debug\Problem01 - 猜數字.pdb
