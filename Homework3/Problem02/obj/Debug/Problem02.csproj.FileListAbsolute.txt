@@ -1,0 +1,16 @@
+D:\VS\[Problem] 2016-03-18\Problem02\bin\Debug\Problem02.exe.config
+D:\VS\[Problem] 2016-03-18\Problem02\bin\Debug\Problem02.exe
+D:\VS\[Problem] 2016-03-18\Problem02\bin\Debug\Problem02.pdb
+D:\VS\[Problem] 2016-03-18\Problem02\bin\Debug\ScoreCalculationLibrary.dll
+D:\VS\[Problem] 2016-03-18\Problem02\bin\Debug\ScoreCalculationLibrary.pdb
+D:\VS\[Problem] 2016-03-18\Problem02\obj\Debug\Problem02.csprojResolveAssemblyReference.cache
+D:\VS\[Problem] 2016-03-18\Problem02\obj\Debug\Problem02.exe
+D:\VS\[Problem] 2016-03-18\Problem02\obj\Debug\Problem02.pdb
+D:\GitHub\CS263_Homeworks\Homework3\Problem02\bin\Debug\Problem02.exe.config
+D:\GitHub\CS263_Homeworks\Homework3\Problem02\obj\Debug\Problem02.exe
+D:\GitHub\CS263_Homeworks\Homework3\Problem02\obj\Debug\Problem02.pdb
+D:\GitHub\CS263_Homeworks\Homework3\Problem02\bin\Debug\Problem02.exe
+D:\GitHub\CS263_Homeworks\Homework3\Problem02\bin\Debug\Problem02.pdb
+D:\GitHub\CS263_Homeworks\Homework3\Problem02\bin\Debug\ScoreCalculationLibrary.dll
+D:\GitHub\CS263_Homeworks\Homework3\Problem02\bin\Debug\ScoreCalculationLibrary.pdb
+D:\GitHub\CS263_Homeworks\Homework3\Problem02\obj\Debug\Problem02.csprojResolveAssemblyReference.cache
