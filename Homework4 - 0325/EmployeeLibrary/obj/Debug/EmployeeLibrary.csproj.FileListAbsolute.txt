@@ -1,0 +1,10 @@
+D:\VS\[CS263] 2016-03-25\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+D:\VS\[CS263] 2016-03-25\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+D:\VS\[CS263] 2016-03-25\EmployeeLibrary\obj\Debug\EmployeeLibrary.csprojResolveAssemblyReference.cache
+D:\VS\[CS263] 2016-03-25\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+D:\VS\[CS263] 2016-03-25\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb
+D:\VS\[Problem] 2016-03-25\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+D:\VS\[Problem] 2016-03-25\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+D:\VS\[Problem] 2016-03-25\EmployeeLibrary\obj\Debug\EmployeeLibrary.csprojResolveAssemblyReference.cache
+D:\VS\[Problem] 2016-03-25\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+D:\VS\[Problem] 2016-03-25\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb
