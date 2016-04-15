@@ -1,0 +1,10 @@
+D:\VS\Homework_Fin\DiscountClassLibrary\bin\Debug\DiscountClassLibrary.dll
+D:\VS\Homework_Fin\DiscountClassLibrary\bin\Debug\DiscountClassLibrary.pdb
+D:\VS\Homework_Fin\DiscountClassLibrary\obj\Debug\DiscountClassLibrary.csprojResolveAssemblyReference.cache
+D:\VS\Homework_Fin\DiscountClassLibrary\obj\Debug\DiscountClassLibrary.dll
+D:\VS\Homework_Fin\DiscountClassLibrary\obj\Debug\DiscountClassLibrary.pdb
+D:\Homework_Fin\DiscountClassLibrary\bin\Debug\DiscountClassLibrary.dll
+D:\Homework_Fin\DiscountClassLibrary\bin\Debug\DiscountClassLibrary.pdb
+D:\Homework_Fin\DiscountClassLibrary\obj\Debug\DiscountClassLibrary.csprojResolveAssemblyReference.cache
+D:\Homework_Fin\DiscountClassLibrary\obj\Debug\DiscountClassLibrary.dll
+D:\Homework_Fin\DiscountClassLibrary\obj\Debug\DiscountClassLibrary.pdb
